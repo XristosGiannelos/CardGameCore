@@ -1,0 +1,106 @@
+New card game 
+
+Each deck has around 40 cards with the playset of each card being 3
+Each player has a leader with a color and ability and hp (Average is 30-40 hp lets say 30 and the math following wil be for 30)
+
+The card types are leader, unit , spell, relic/structure(or somehting that states in its name that it stays on board)
+
+Units are the monsters of the game. They can attack the turn they are played(we may need to remove this but we will see)
+Units have Atk/Hp , color , cost, abilities
+
+Spells are cards with a one time use effect that resolve and go to the drop zone after. All spells are instant speed unless stated otherwise
+
+relic/structure(we need to come up with a name) are cards with a cost that are played and stay on the board. 
+
+Units attacking can either attack enemy units that are rested or enemy lesders.
+Damage is exchanged between two units . But end of turn they heal to full 
+
+Starting hand is 7 and yo draw 1 during each of your turns .
+First player does not draw or attack.
+Each player has 5 energy to pay costs with and their energy resets at the start of that players turn.
+This means you can choose to go all out but if you spent your 5 energy then you will have no energy to interact with the opponetn during their turn
+
+Phases are a standard of Draw phase, Big Main phase where you do all actions , End phase.
+
+2 sample decks to start us off 
+
+Leader — Morga, Keeper of the Dead 30 HP 
+When one of your non-token units dies, place a Soul counter on your leader for each one of them. 
+1/turn : Discard 1 -> Draw 2 
+Remove 6 Soul Counters from your Leader: Summon a unit from your Graveyard. 
+Main Deck 
+
+3× Grave Rat 1 Energy — 2/1 Unit
+When this dies, draw 1 card and deal 1 dmg to any target.
+3× Corpse Collector 2 Energy — 3/2 Unit
+When another friendly unit dies, place a Soul counter on your leader, recover 1 energy, draw 1. 
+3× Blood Revenant 3 Energy — 5/3 Unit
+When you play this you may kill it to deal 3 dmg to any target. 
+When this dies, if it did not have 1 HP, you may summon it again during your next turn but set its HP to 1. 
+3× Soul Eater 4 Energy — 5/7 Unit
+Whenever this enters, Discard 1 to place a Soul counter on your leader. 
+Whenever this attacks , Destory an enemy unit. 
+3× Grave Tyrant 5 Energy — 8/8 Unit
+When summoned, summon a unit costing 4 or less from your Graveyard.
+At the end of your turn destroy it. 
+3× Necro Dragon 5 Energy — 8/8 Unit
+When this enters play, return up to 2 units not named Necro Dragon from your Graveyard to the battlefield. 
+At the end of your turn, destroy them. 
+2× The Undying King 5 Energy — 6/6 Unit
+Whenever this unit is destroyed, return it onto the battlefield at the end of the turn. 
+3× Sacrificial Rite 0 Energy Spell
+Destroy one of your unit. Draw 2 cards, Place 1 Soul counter on your leader, Heal 3 hp to any target. 
+3× Grave Exchange 0 Energy Spell
+Return one creature from your Graveyard to your hand. Then discard a card. 
+3× Mass Burial 5 Energy Spell
+Destroy all unit. 
+3× Soul Theft 2 Energy Spell
+Steal an enemy creature with 4 or less ATK until end of turn. 
+2× Resurrection 4 Energy Spell 
+Summon a unit from either Graveyard. 
+3× Death Denial 2 Energy Spell 
+Choose a creature and give it : When this creature is destroyed , return it to the battlefield from graveyard 
+3× Grave Trap 1 Energy Spell
+When your opponent summons a creature, you may sacrifise a creature you control -> destroy it.
+
+Leader — Fazat, Lightning Mage 30 HP 
+Whenever you cast your second spell each turn recover 1 energy
+Whenever you cast your third spell each turn deal 2 dmg
+1/turn: Pay 5 Energy -> Create a Zap token in your hand. This ability costs 1 less energy for each lightning spell played this turn 
+
+Zap 0 Energy Token Lightning Spell 
+Deal1 damage to any target
+
+Recast is a keyword where you may banish the spell after it resolves and at the beggining of your next turn cast it for free without the recast on it
+
+Main Deck 
+3× 2 Energy Relic/Structure 
+1/turn:Whenever you deal damage to your opponent with a lightning spell. If you have played 4+ spells this turn -> draw 1
+3× Voltaic Capacitor 1 Energy Relic/Structure
+Destroy this -> Gain 2 energy
+3× 1 Energy Relic/Structure
+Whenever you cast your fourth or more spell in a turn -> Deal 1 dmg
+3× Chain Spark 1 Energy lightning spell 
+Deal 1 dmg to any target. [Recast].
+3× Static Bolt 1 Energy lightning  spell
+Deal 3 dmg. If you have played another lightning spell this turn -> Create a Zap token in your hand
+3× Stormcall 1 Energy lightning  spell 
+Create 2 Zap tokens in your hand
+3× Thunderfall 5 Energy lightning  spell
+Deal 4 dmg. This costs 1 less mp for each spell you played this turn
+3× Overload 2 Energy lightning  spell 
+Deal 3 dmg. When you cast this spell, if you have played 4 spells before it -> deal 2 dmg.
+3× Voltage Cascade 2 Energy lightning  spell
+Deal 2 dmg + 1 dmg for each spell played before it this turn 
+3× Storm Protocol 3 Energy lightning  spell 
+For the rest of the turn whenever you cast a non token spell -> Create a Zap token in your hand 
+3× Conductive Surge 1 Energy lightning  spell
+Create a Zap token in your hand. For the turn your zap tokens have [Recast]. 
+3× Overcharged Current 2 Energy lightning  spell
+Create a Zap token in your hand. For the turn your zap tokens deal +1 DMG 
+3× Arc Battery 1 Energy lightning  spell 
+Gain 2 Energy
+3× Turbocharge 3 Energy Spell
+Draw 3 cards
+
+
